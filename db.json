@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Product_Name": "phone",
+      "dites": "i phone 11",
+      "price": "75,000"
+    },
+    {
+      "id": 2,
+      "Product_Name": "phone",
+      "dites": "i phone 12",
+      "price": "85,000"
+    },
+    {
+      "id": 3,
+      "Product_Name": "phone",
+      "dites": "i phone 13",
+      "price": "95,000"
+    },
+    {
+      "id": 4,
+      "Product_Name": "phone",
+      "dites": "i phone 14",
+      "price": "1,00,000"
+    }
+  ]
+}
